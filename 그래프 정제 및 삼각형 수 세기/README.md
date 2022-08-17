@@ -1,4 +1,5 @@
 # FINAL PROJECT : 그래프 정제 및 삼각형 수 세기
+## HADOOP을 이용하여 빅데이터 자료 활용
 
 http://snap.stanford.edu/data/wiki-topcats.html
 
