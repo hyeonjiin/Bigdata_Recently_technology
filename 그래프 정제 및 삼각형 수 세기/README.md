@@ -1,3 +1,5 @@
+# FINAL PROJECT : 그래프 정제 및 삼각형 수 세기
+
 http://snap.stanford.edu/data/wiki-topcats.html
 
 위의 링크는 위키백과의 하이퍼링크 네트워크를 그래프로 표현한 데이터셋입니다.
